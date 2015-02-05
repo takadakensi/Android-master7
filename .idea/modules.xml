@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-master/Android-master.iml" filepath="$PROJECT_DIR$/Android-master/Android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-master/Examples/BLEController/BLEController.iml" filepath="$PROJECT_DIR$/Android-master/Examples/BLEController/BLEController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-master/Examples/BLESelect/BLESelect.iml" filepath="$PROJECT_DIR$/Android-master/Examples/BLESelect/BLESelect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-master/Examples/Chat/Chat.iml" filepath="$PROJECT_DIR$/Android-master/Examples/Chat/Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-master/Examples/SimpleControls/SimpleControls.iml" filepath="$PROJECT_DIR$/Android-master/Examples/SimpleControls/SimpleControls.iml" />
+    </modules>
+  </component>
+</project>
+
